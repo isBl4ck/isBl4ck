@@ -54,11 +54,11 @@ Atualmente, sou desenvolvedor no projeto Union Roleplay, um servidor dedicado ao
 
 </br>
 
-<a href="https://www.instagram.com/hnlksx" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/henrilks" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 ##
 <p align="center">
-<a href="https://github.com/henrilks">
+<a href="https://github.com/isbl4ck">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isbl4ck&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
