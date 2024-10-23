@@ -44,7 +44,7 @@ Atualmente, sou desenvolvedor no projeto Union Roleplay, um servidor dedicado ao
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🚀 Fundador e CEO do StarGames Group, onde desenvolvemos experiências de jogos envolventes e inovadoras;</p>
+ <p align="left">🚀 Fundador e CEO da StarGames Group, onde desenvolvemos experiências no SA-MP envolventes e inovadoras;</p>
  <p align="left">🎓 Graduado em Engenharia da Computação, com uma sólida base em desenvolvimento de software e sistemas;</p>
  <p align="left">👨‍💻 Desenvolvedor Fullstack, com experiência em construir aplicações robustas tanto no frontend quanto no backend;</p>
  <p align="left">🎨 Designer gráfico, criando visuais atraentes que comunicam ideias de forma eficaz e impactante;</p>
