@@ -60,6 +60,5 @@ Atualmente, sou desenvolvedor no projeto Union Roleplay, um servidor dedicado ao
 <p align="center">
 <a href="https://github.com/isbl4ck">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isbl4ck&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isbl4ck&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
